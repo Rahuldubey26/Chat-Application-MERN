@@ -78,7 +78,7 @@ function Auth() {
           </div>
         </div>
         <div className="hidden xl:flex justify-center items-center">
-          {/* <img src={Background} className='h-[700px]' alt="" /> */}
+          <img src={Background} className='h-[560px]' alt="" />
         </div>
       </div>
     </div>
